@@ -1,0 +1,10 @@
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\bin\Debug\Buoi3Bai2.exe.config
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\bin\Debug\Buoi3Bai2.exe
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\bin\Debug\Buoi3Bai2.pdb
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\obj\Debug\DES_Algorithm.csproj.AssemblyReference.cache
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\obj\Debug\Buoi3Bai2.Form1.resources
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\obj\Debug\Buoi3Bai2.Properties.Resources.resources
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\obj\Debug\DES_Algorithm.csproj.GenerateResource.cache
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\obj\Debug\DES_Algorithm.csproj.CoreCompileInputs.cache
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\obj\Debug\Buoi3Bai2.exe
+E:\LưuCODE\C#\Buoi3Bai2\Buoi3Bai2\Buoi3Bai2\obj\Debug\Buoi3Bai2.pdb
